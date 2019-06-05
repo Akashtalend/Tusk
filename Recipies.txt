@@ -12,4 +12,9 @@ Egg
 Egg Curry
 Egg masala
 
+Dosa
+IDLI
+UPMA
+LEMON Rice
+
 Thnak you :)
