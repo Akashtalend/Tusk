@@ -7,3 +7,7 @@ Chicken Fry
 Chicken Curry
 Prawns
 Fish
+
+Egg
+Egg Curry
+Egg masala
